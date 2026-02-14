@@ -1,135 +1,61 @@
-# Synexia Landing Page
+# Synexia - Ecosistema de Soluciones Tecnologicas
 
-Landing page profesional desarrollada para Synexia Soluciones Tecnológicas, utilizando tecnologias modernas de desarrollo web.
+## Sobre el Proyecto
 
-## Tecnologias
+Synexia es una startup tecnologica dedicada a profesionalizar la operativa de empresas B2B mediante software de autoria propia. Este repositorio centraliza el desarrollo de nuestras soluciones integrales, disenadas bajo pilares de union, eficiencia y seriedad.
 
-- **Framework:** React 18 + TypeScript
-- **Build Tool:** Vite
-- **Styling:** TailwindCSS
-- **Animaciones:** Framer Motion
-- **Internacionalizacion:** i18next + react-i18next
-- **Formulario:** EmailJS
-- **Iconos:** Lucide React
+Nuestra arquitectura visual, representada por una red hexagonal de nodos interconectados, simboliza como transformamos procesos complejos en sistemas fluidos y seguros.
 
-## Instalacion
+## Verticales de Solucion
 
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/tu-usuario/synexia-landing.git
-cd synexia-landing
-```
+El desarrollo en este repositorio se organiza en tres ejes estrategicos:
 
-2. Instalar dependencias:
-```bash
-npm install
-```
+**1. Sistemas Internos de Gestion**
+Optimizacion operativa mediante modulos de tickets, gestion de turnos y flujos administrativos.
 
-3. Configurar variables de entorno:
-```bash
-cp .env.example .env
-```
-Editar el archivo `.env` con las credenciales de EmailJS.
+**2. E-commerce de Alto Rendimiento**
+Plataformas escalables enfocadas en la conversion y la experiencia del usuario final.
 
-4. Iniciar servidor de desarrollo:
-```bash
-npm run dev
-```
+**3. Webs con Panel Administrativo**
+Sitios profesionales autogestionables que brindan autonomia total al cliente.
 
-## Configuracion EmailJS
+## Stack Tecnologico
 
-Para habilitar el formulario de contacto:
+Para garantizar la eficiencia tecnica, el equipo utiliza:
 
-1. Crear una cuenta en [EmailJS](https://www.emailjs.com/)
-2. Configurar un servicio de email (Gmail, Outlook, etc.)
-3. Crear un template con las siguientes variables:
-   - `{{name}}`
-   - `{{email}}`
-   - `{{company}}`
-   - `{{phone}}`
-   - `{{project_type}}`
-   - `{{message}}`
-4. Copiar los IDs al archivo `.env`
+- **Frontend:** React (Especializacion en interfaces dinamicas)
+- **Backend:** Arquitecturas escalables enfocadas en la seguridad de datos
+- **Diseno:** Prototipado en alta fidelidad con enfoque UX/UI corporativo
+- **Infraestructura:** Despliegue continuo (CI/CD) y gestion de entornos (DevOps)
 
-## Paleta de Colores
+## Estructura del Equipo
 
-- **Azul Marino:** `#0A1628` - Color corporativo principal
-- **Cian:** `#00D4FF` - Acentos y nodos
-- **Gris Metalico:** `#6B7280` - Textos secundarios
+El exito de Synexia se basa en la integracion de talentos:
 
-## Estructura del Proyecto
+- **Liderazgo Tecnico & DevOps:** Arquitectura de sistemas y estabilidad
+- **Gestion de Producto:** PM & Analista de Sistemas (Diagramacion y procesos)
+- **Diseno:** UX-UI enfocado en identidad visual y usabilidad
+- **Ingenieria:** Desarrolladores Fullstack y Frontend (React)
 
-```
-synexia-landing/
-├── src/
-│   ├── components/
-│   │   ├── layout/     # Header, Footer
-│   │   ├── sections/   # Hero, Solutions, etc.
-│   │   └── ui/         # Componentes reutilizables
-│   ├── hooks/          # Custom hooks
-│   ├── i18n/           # Configuracion de idiomas
-│   ├── types/          # Tipos TypeScript
-│   ├── App.tsx
-│   └── main.tsx
-├── public/
-├── .env.example
-├── index.html
-└── vercel.json
-```
+## Instalacion y Configuracion
 
-## Deployment en Vercel
+**Nota:** Este es un repositorio de propiedad privada. El acceso y la configuracion estan restringidos al personal autorizado.
 
-### Opcion 1: Vercel CLI
-```bash
-npm i -g vercel
-vercel
-```
-
-### Opcion 2: Git Integration
-1. Subir el codigo a GitHub/GitLab/Bitbucket
-2. Conectar el repositorio en [Vercel](https://vercel.com)
-3. Configurar las variables de entorno en el dashboard
-4. Deployment automatico en cada push
-
-### Variables de Entorno en Vercel
-Acceder a Settings > Environment Variables y anadir:
-- `VITE_EMAILJS_SERVICE_ID`
-- `VITE_EMAILJS_TEMPLATE_ID`
-- `VITE_EMAILJS_PUBLIC_KEY`
-
-## Internacionalizacion
-
-El sitio soporta los siguientes idiomas:
-- Espanol: `/src/i18n/es.json`
-- Ingles: `/src/i18n/en.json`
-
-El selector de idioma se encuentra en el header.
-
-## Caracteristicas
-
-- Diseno responsive (mobile-first)
-- Modo oscuro/claro
-- Animaciones con Framer Motion
-- Scroll reveal en secciones
-- Formulario de contacto funcional
-- SEO optimizado
-- Accesibilidad (ARIA labels, contraste)
-- Performance optimizada
+1. Clonar el repositorio
+2. Configurar las variables de entorno (.env) incluyendo las credenciales de EmailJS
+3. Ejecutar `npm install` para instalar dependencias
+4. Iniciar el entorno de desarrollo con `npm run dev`
 
 ## Licencia
 
-Este software es propiedad exclusiva de **Synexia Soluciones Tecnologicas**.
+Este proyecto esta bajo una Licencia Propietaria.
 
 **Copyright (c) 2026 SYNEXIA. Todos los derechos reservados.**
 
-Este codigo fuente, los activos visuales (incluyendo el logotipo de la red hexagonal) y la logica de negocio son propiedad intelectual fundamental de nuestra organizacion. Queda estrictamente prohibida la reproduccion, distribucion, modificacion o uso no autorizado.
+El codigo fuente y los activos visuales (como el logo orbital) son propiedad exclusiva de Synexia. Queda prohibida su reproduccion o distribucion sin autorizacion previa.
 
-Para consultar los terminos completos, revisar el archivo [LICENSE.md](./LICENSE.md).
+---
 
-> *"Integrando visiones, fortaleciendo vinculos"*
+Synexia Soluciones Tecnologicas - Buenos Aires, Argentina
 
-## Contacto
-
-- Email: contacto@synexia.com
-- Telefono: +54 (11) XXXX-XXXX
-- Ubicacion: Buenos Aires, Argentina
+*"Integrando visiones, fortaleciendo vinculos"*
