@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "method": "Method",
+    "showcase": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Digital Synergy Assured",
+    "title": "Custom software systems to boost your company's efficiency",
+    "subtitle": "Integrating visions, strengthening bonds. We transform your operation with technology that connects every critical point of your organization.",
+    "ctaPrimary": "Request Consultation",
+    "ctaSecondary": "Explore Solutions"
+  },
+  "solutions": {
+    "badge": "Our Solutions",
+    "title": "Technology that drives your business",
+    "subtitle": "Three specialized verticals to transform your operation",
+    "management": {
+      "title": "Management Systems",
+      "description": "Optimize processes, centralize control, and organize your resources with ERP solutions tailored to your industry.",
+      "features": [
+        "Real-time inventory control",
+        "Operational process automation",
+        "Custom executive reports",
+        "Integration with existing systems"
+      ]
+    },
+    "tickets": {
+      "title": "Ticket & Queue Management",
+      "description": "Improve your users' experience with agile service systems for high-demand environments.",
+      "features": [
+        "Intelligent ticket assignment",
+        "Real-time tracking",
+        "Satisfaction metrics",
+        "Automatic notifications"
+      ]
+    },
+    "platforms": {
+      "title": "Web Platforms with Admin Panel",
+      "description": "Empower your team with intuitive panels to manage content and operations without technical dependencies.",
+      "features": [
+        "CMS customized to your brand",
+        "User and permission management",
+        "Integrated analytics",
+        "Guaranteed scalability"
+      ]
+    }
+  },
+  "method": {
+    "badge": "The Synexia Method",
+    "title": "Differentiators that generate value",
+    "subtitle": "Our methodology ensures measurable and sustainable results",
+    "integration": {
+      "title": "Total Integration",
+      "description": "We connect every critical point of your organization through interoperable systems, emulating the network of nodes that defines our identity. Your technology will work as a unified ecosystem, not isolated silos."
+    },
+    "property": {
+      "title": "Intellectual Property",
+      "description": "We develop proprietary code that guarantees total flexibility, unlimited scalability, and robust security. No third-party dependencies, just solutions adapted to your specific vision."
+    },
+    "bond": {
+      "title": "Corporate Bond",
+      "description": "We integrate as a technical extension of your team, adapting each solution to your organizational culture. Your success is our performance metric."
+    }
+  },
+  "showcase": {
+    "badge": "Operational Evidence",
+    "title": "Interfaces designed for efficiency",
+    "subtitle": "Each system reflects our quality standards: intuitive, powerful, and aligned with your brand",
+    "placeholder": "Screenshot in development",
+    "comingSoon": "Coming Soon"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "One team, one vision",
+    "subtitle": "Synexia was born from the conviction that technology should be a bridge, not a barrier.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Transform organizations through software systems that integrate visions and strengthen bonds. We don't sell code, we build capabilities."
+    },
+    "values": {
+      "title": "Core Values",
+      "items": [
+        "Technical excellence without excuses",
+        "Transparency at every stage",
+        "Results-oriented approach",
+        "Long-term commitment"
+      ]
+    },
+    "team": {
+      "title": "Leadership Team",
+      "description": "Professionals with extensive experience in enterprise software development, committed to innovation and customer satisfaction."
+    }
+  },
+  "contact": {
+    "badge": "Let's Start Integrating",
+    "title": "Request Technical Consultation",
+    "subtitle": "Fill out the form and our team will analyze your case within 24 hours",
+    "form": {
+      "name": "Full name",
+      "email": "Corporate email",
+      "company": "Company",
+      "phone": "Phone",
+      "projectType": "Project type",
+      "projectTypes": {
+        "management": "Management Systems",
+        "ecommerce": "E-commerce",
+        "web": "Web Platforms",
+        "tickets": "Tickets & Queues",
+        "other": "Other"
+      },
+      "message": "Briefly describe your need",
+      "submit": "Send Inquiry",
+      "sending": "Sending...",
+      "success": "Message sent! We'll contact you soon.",
+      "error": "Error sending. Please try again."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "solutions": "Soluciones",
+    "method": "Método",
+    "showcase": "Portfolio",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "Sinergia Digital Asegurada",
+    "title": "Sistemas de software a medida para potenciar la eficiencia de su empresa",
+    "subtitle": "Integrando visiones, fortaleciendo vínculos. Transformamos su operación con tecnología que conecta cada punto crítico de su organización.",
+    "ctaPrimary": "Solicitar Consultoría",
+    "ctaSecondary": "Conocer Soluciones"
+  },
+  "solutions": {
+    "badge": "Nuestras Soluciones",
+    "title": "Tecnología que impulsa su negocio",
+    "subtitle": "Tres verticales especializadas para transformar su operación",
+    "management": {
+      "title": "Sistemas de Gestión",
+      "description": "Optimice procesos, centralice el control y organice sus recursos con soluciones ERP adaptadas a su industria.",
+      "features": [
+        "Control de inventario en tiempo real",
+        "Automatización de procesos operativos",
+        "Reportes ejecutivos personalizados",
+        "Integración con sistemas existentes"
+      ]
+    },
+    "tickets": {
+      "title": "Gestión de Tickets y Turnos",
+      "description": "Mejore la experiencia de sus usuarios con sistemas de atención ágiles para entornos de alta demanda.",
+      "features": [
+        "Asignación inteligente de tickets",
+        "Seguimiento en tiempo real",
+        "Métricas de satisfacción",
+        "Notificaciones automáticas"
+      ]
+    },
+    "platforms": {
+      "title": "Plataformas Web Administrables",
+      "description": "Empodere a su equipo con paneles intuitivos para gestionar contenido y operaciones sin dependencias técnicas.",
+      "features": [
+        "CMS personalizado a su marca",
+        "Gestión de usuarios y permisos",
+        "Analíticas integradas",
+        "Escalabilidad garantizada"
+      ]
+    }
+  },
+  "method": {
+    "badge": "El Método Synexia",
+    "title": "Diferenciadores que generan valor",
+    "subtitle": "Nuestra metodología garantiza resultados medibles y sostenibles",
+    "integration": {
+      "title": "Integración Total",
+      "description": "Conectamos cada punto crítico de su organización mediante sistemas interoperables, emulando la red de nodos que define nuestra identidad. Su tecnología trabajará como un ecosistema unificado, no como silos aislados."
+    },
+    "property": {
+      "title": "Propiedad Intelectual",
+      "description": "Desarrollamos código propio que garantiza flexibilidad total, escalabilidad sin límites y seguridad robusta. No dependencias de terceros, solo soluciones adaptadas a su visión específica."
+    },
+    "bond": {
+      "title": "Vínculo Corporativo",
+      "description": "Nos integramos como una extensión técnica de su equipo, adaptando cada solución a su cultura organizacional. Su éxito es nuestra métrica de desempeño."
+    }
+  },
+  "showcase": {
+    "badge": "Evidencia Operativa",
+    "title": "Interfaces diseñadas para la eficiencia",
+    "subtitle": "Cada sistema refleja nuestros estándares de calidad: intuitivo, potente y alineado a su marca",
+    "placeholder": "Captura de pantalla en desarrollo",
+    "comingSoon": "Próximamente"
+  },
+  "about": {
+    "badge": "Sobre Nosotros",
+    "title": "Un equipo, una visión",
+    "subtitle": "Synexia nace de la convicción de que la tecnología debe ser un puente, no una barrera.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Transformar organizaciones mediante sistemas de software que integren visiones y fortalezcan vínculos. No vendemos código, construimos capacidades."
+    },
+    "values": {
+      "title": "Valores Fundamentales",
+      "items": [
+        "Excelencia técnica sin excusas",
+        "Transparencia en cada etapa",
+        "Orientación a resultados medibles",
+        "Compromiso a largo plazo"
+      ]
+    },
+    "team": {
+      "title": "Equipo Directivo",
+      "description": "Profesionales con amplia experiencia en desarrollo de software empresarial, comprometidos con la innovación y la satisfacción del cliente."
+    }
+  },
+  "contact": {
+    "badge": "Comencemos a Integrar",
+    "title": "Solicitar Consultoría Técnica",
+    "subtitle": "Complete el formulario y nuestro equipo analizará su caso en menos de 24 horas",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Email corporativo",
+      "company": "Empresa",
+      "phone": "Teléfono",
+      "projectType": "Tipo de proyecto",
+      "projectTypes": {
+        "management": "Sistemas de Gestión",
+        "ecommerce": "E-commerce",
+        "web": "Plataformas Web",
+        "tickets": "Tickets y Turnos",
+        "other": "Otro"
+      },
+      "message": "Describa brevemente su necesidad",
+      "submit": "Enviar Consulta",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado! Nos contactaremos pronto.",
+      "error": "Error al enviar. Por favor intente nuevamente."
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}
