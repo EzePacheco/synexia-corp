@@ -1,63 +1,63 @@
 # Synexia Landing Page
 
-Landing page profesional para Synexia Soluciones Tecnológicas, desarrollada con React, TypeScript, TailwindCSS y Vite.
+Landing page profesional desarrollada para Synexia Soluciones Tecnológicas, utilizando tecnologias modernas de desarrollo web.
 
-## 🚀 Tecnologías
+## Tecnologias
 
 - **Framework:** React 18 + TypeScript
 - **Build Tool:** Vite
 - **Styling:** TailwindCSS
 - **Animaciones:** Framer Motion
-- **Internacionalización:** i18next + react-i18next
+- **Internacionalizacion:** i18next + react-i18next
 - **Formulario:** EmailJS
 - **Iconos:** Lucide React
 
-## 📦 Instalación
+## Instalacion
 
-1. **Clonar el repositorio:**
+1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/synexia-landing.git
 cd synexia-landing
 ```
 
-2. **Instalar dependencias:**
+2. Instalar dependencias:
 ```bash
 npm install
 ```
 
-3. **Configurar variables de entorno:**
+3. Configurar variables de entorno:
 ```bash
 cp .env.example .env
 ```
-Edita el archivo `.env` con tus credenciales de EmailJS.
+Editar el archivo `.env` con las credenciales de EmailJS.
 
-4. **Iniciar servidor de desarrollo:**
+4. Iniciar servidor de desarrollo:
 ```bash
 npm run dev
 ```
 
-## 🔧 Configuración EmailJS
+## Configuracion EmailJS
 
 Para habilitar el formulario de contacto:
 
-1. Crea una cuenta en [EmailJS](https://www.emailjs.com/)
-2. Configura un servicio de email (Gmail, Outlook, etc.)
-3. Crea un template con las siguientes variables:
+1. Crear una cuenta en [EmailJS](https://www.emailjs.com/)
+2. Configurar un servicio de email (Gmail, Outlook, etc.)
+3. Crear un template con las siguientes variables:
    - `{{name}}`
    - `{{email}}`
    - `{{company}}`
    - `{{phone}}`
    - `{{project_type}}`
    - `{{message}}`
-4. Copia los IDs al archivo `.env`
+4. Copiar los IDs al archivo `.env`
 
-## 🎨 Paleta de Colores
+## Paleta de Colores
 
 - **Azul Marino:** `#0A1628` - Color corporativo principal
 - **Cian:** `#00D4FF` - Acentos y nodos
-- **Gris Metálico:** `#6B7280` - Textos secundarios
+- **Gris Metalico:** `#6B7280` - Textos secundarios
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 synexia-landing/
@@ -67,7 +67,7 @@ synexia-landing/
 │   │   ├── sections/   # Hero, Solutions, etc.
 │   │   └── ui/         # Componentes reutilizables
 │   ├── hooks/          # Custom hooks
-│   ├── i18n/           # Configuración de idiomas
+│   ├── i18n/           # Configuracion de idiomas
 │   ├── types/          # Tipos TypeScript
 │   ├── App.tsx
 │   └── main.tsx
@@ -77,59 +77,59 @@ synexia-landing/
 └── vercel.json
 ```
 
-## 🚀 Deploy en Vercel
+## Deployment en Vercel
 
-### Opción 1: Vercel CLI
+### Opcion 1: Vercel CLI
 ```bash
 npm i -g vercel
 vercel
 ```
 
-### Opción 2: Git Integration
-1. Sube el código a GitHub/GitLab/Bitbucket
-2. Conecta tu repositorio en [Vercel](https://vercel.com)
-3. Configura las variables de entorno en el dashboard
-4. Deploy automático en cada push
+### Opcion 2: Git Integration
+1. Subir el codigo a GitHub/GitLab/Bitbucket
+2. Conectar el repositorio en [Vercel](https://vercel.com)
+3. Configurar las variables de entorno en el dashboard
+4. Deployment automatico en cada push
 
 ### Variables de Entorno en Vercel
-Ve a Settings > Environment Variables y añade:
+Acceder a Settings > Environment Variables y anadir:
 - `VITE_EMAILJS_SERVICE_ID`
 - `VITE_EMAILJS_TEMPLATE_ID`
 - `VITE_EMAILJS_PUBLIC_KEY`
 
-## 🌐 Internacionalización
+## Internacionalizacion
 
-El sitio soporta español e inglés:
-- ES: `/src/i18n/es.json`
-- EN: `/src/i18n/en.json`
+El sitio soporta los siguientes idiomas:
+- Espanol: `/src/i18n/es.json`
+- Ingles: `/src/i18n/en.json`
 
-El selector de idioma está en el header.
+El selector de idioma se encuentra en el header.
 
-## 🎯 Características
+## Caracteristicas
 
-- ✅ Diseño responsive (mobile-first)
-- ✅ Modo oscuro/claro
-- ✅ Animaciones suaves con Framer Motion
-- ✅ Scroll reveal en secciones
-- ✅ Formulario de contacto funcional
-- ✅ SEO optimizado
-- ✅ Accesibilidad (ARIA labels, contraste)
-- ✅ Performance optimizada
+- Diseno responsive (mobile-first)
+- Modo oscuro/claro
+- Animaciones con Framer Motion
+- Scroll reveal en secciones
+- Formulario de contacto funcional
+- SEO optimizado
+- Accesibilidad (ARIA labels, contraste)
+- Performance optimizada
 
-## 📝 Licencia
+## Licencia
 
-Este software es propiedad exclusiva de **Synexia Soluciones Tecnológicas**.
+Este software es propiedad exclusiva de **Synexia Soluciones Tecnologicas**.
 
 **Copyright (c) 2026 SYNEXIA. Todos los derechos reservados.**
 
-Este código fuente, los activos visuales —incluyendo el logotipo de la red hexagonal— y la lógica de negocio son propiedad intelectual fundamental de nuestra organización. Queda estrictamente prohibida la reproducción, distribución, modificación o uso no autorizado.
+Este codigo fuente, los activos visuales (incluyendo el logotipo de la red hexagonal) y la logica de negocio son propiedad intelectual fundamental de nuestra organizacion. Queda estrictamente prohibida la reproduccion, distribucion, modificacion o uso no autorizado.
 
-Para consultar los términos completos, revisa el archivo [LICENSE.md](./LICENSE.md).
+Para consultar los terminos completos, revisar el archivo [LICENSE.md](./LICENSE.md).
 
-> *"Integrando visiones, fortaleciendo vínculos"*
+> *"Integrando visiones, fortaleciendo vinculos"*
 
-## 📧 Contacto
+## Contacto
 
 - Email: contacto@synexia.com
-- Teléfono: +52 (55) 1234-5678
-- Ubicación: Ciudad de México, México
+- Telefono: +54 (11) XXXX-XXXX
+- Ubicacion: Buenos Aires, Argentina
