@@ -118,7 +118,15 @@ El selector de idioma está en el header.
 
 ## 📝 Licencia
 
-© 2026 Synexia Soluciones Tecnológicas. Todos los derechos reservados.
+Este software es propiedad exclusiva de **Synexia Soluciones Tecnológicas**.
+
+**Copyright (c) 2026 SYNEXIA. Todos los derechos reservados.**
+
+Este código fuente, los activos visuales —incluyendo el logotipo de la red hexagonal— y la lógica de negocio son propiedad intelectual fundamental de nuestra organización. Queda estrictamente prohibida la reproducción, distribución, modificación o uso no autorizado.
+
+Para consultar los términos completos, revisa el archivo [LICENSE.md](./LICENSE.md).
+
+> *"Integrando visiones, fortaleciendo vínculos"*
 
 ## 📧 Contacto
 
