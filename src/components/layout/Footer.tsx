@@ -38,11 +38,11 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-gray-400">
                 <Mail className="w-5 h-5 mt-0.5 flex-shrink-0" />
-                <span>contacto@synexia.com</span>
+                <span>synexiatech.dev@gmail.com</span>
               </li>
               <li className="flex items-start gap-3 text-gray-400">
                 <Phone className="w-5 h-5 mt-0.5 flex-shrink-0" />
-                <span>+52 (55) 1234-5678</span>
+                <span>+54 9 11 5758-8536</span>
               </li>
               <li className="flex items-start gap-3 text-gray-400">
                 <MapPin className="w-5 h-5 mt-0.5 flex-shrink-0" />

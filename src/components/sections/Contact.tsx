@@ -147,7 +147,7 @@ export function Contact() {
                   value={formData.phone}
                   onChange={handleChange}
                   className="w-full px-4 py-3 rounded-lg bg-white dark:bg-synexia-dark border border-gray-200 dark:border-gray-700 text-synexia-navy dark:text-white focus:outline-none focus:ring-2 focus:ring-synexia-cyan focus:border-transparent transition-all"
-                  placeholder="+52 (55) 1234-5678"
+                  placeholder="+54 9 11 5758-8536"
                 />
               </div>
             </div>
