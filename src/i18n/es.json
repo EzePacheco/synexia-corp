@@ -7,7 +7,7 @@
     "contact": "Contacto"
   },
   "hero": {
-    "badge": "Sinergia Digital Asegurada",
+    "badge": "Soluciones Tecnológicas",
     "title": "Sistemas de software a medida para potenciar la eficiencia de su empresa",
     "subtitle": "Integrando visiones, fortaleciendo vínculos. Transformamos su operación con tecnología que conecta cada punto crítico de su organización.",
     "ctaPrimary": "Solicitar Consultoría",
@@ -75,23 +75,70 @@
   "about": {
     "badge": "Sobre Nosotros",
     "title": "Un equipo, una visión",
-    "subtitle": "Synexia nace de la convicción de que la tecnología debe ser un puente, no una barrera.",
+    "subtitle": "Synexia no es solo una firma de desarrollo; es el nexo fundamental entre los objetivos de su empresa y su infraestructura tecnológica.",
+    "philosophy": {
+      "title": "Nuestra Filosofía",
+      "quote": "Integrando visiones, fortaleciendo vínculos"
+    },
     "mission": {
       "title": "Nuestra Misión",
-      "description": "Transformar organizaciones mediante sistemas de software que integren visiones y fortalezcan vínculos. No vendemos código, construimos capacidades."
+      "description": "Orquestar soluciones que permitan una escalabilidad modular, armonizando visiones de negocio con infraestructuras de alta complejidad.",
+      "extended": "No entregamos simples sistemas; construimos soluciones sustentables que protegen su inversión y garantizan la longevidad de su ecosistema digital."
     },
     "values": {
       "title": "Valores Fundamentales",
+      "subtitle": "El ADN que nos define",
       "items": [
-        "Excelencia técnica sin excusas",
-        "Transparencia en cada etapa",
-        "Orientación a resultados medibles",
-        "Compromiso a largo plazo"
+        {
+          "title": "Seguridad desde el origen",
+          "description": "Protegemos sus datos desde el primer día de desarrollo"
+        },
+        {
+          "title": "Transparencia total",
+          "description": "Comunicación honesta sin asimetrías de información"
+        },
+        {
+          "title": "Precisión garantizada",
+          "description": "Diagnósticos exactos y soluciones sólidas que funcionan"
+        },
+        {
+          "title": "Escucha activa",
+          "description": "Nos integramos a su equipo para entender sus necesidades reales"
+        }
       ]
     },
     "team": {
-      "title": "Equipo Directivo",
-      "description": "Profesionales con amplia experiencia en desarrollo de software empresarial, comprometidos con la innovación y la satisfacción del cliente."
+      "title": "Nuestro Equipo",
+      "description": "Profesionales con experiencia en desarrollo empresarial, comprometidos con resultados concretos",
+      "members": [
+        {
+          "name": "Ezequiel",
+          "role": "Liderazgo Estratégico"
+        },
+        {
+          "name": "Daiana",
+          "role": "Product Manager"
+        },
+        {
+          "name": "Andres",
+          "role": "Backend & Análisis"
+        },
+        {
+          "name": "Giovanny",
+          "role": "Diseño UX/UI"
+        },
+        {
+          "name": "Marcos",
+          "role": "Desarrollo"
+        },
+        {
+          "name": "Yani",
+          "role": "Desarrollo"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Puntos de Contacto Oficiales"
     }
   },
   "contact": {

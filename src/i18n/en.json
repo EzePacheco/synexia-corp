@@ -7,7 +7,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "badge": "Digital Synergy Assured",
+    "badge": "Technology Solutions",
     "title": "Custom software systems to boost your company's efficiency",
     "subtitle": "Integrating visions, strengthening bonds. We transform your operation with technology that connects every critical point of your organization.",
     "ctaPrimary": "Request Consultation",
@@ -75,23 +75,70 @@
   "about": {
     "badge": "About Us",
     "title": "One team, one vision",
-    "subtitle": "Synexia was born from the conviction that technology should be a bridge, not a barrier.",
+    "subtitle": "Synexia is not just a development firm; it is the fundamental link between your company's objectives and its technological infrastructure.",
+    "philosophy": {
+      "title": "Our Philosophy",
+      "quote": "Integrating visions, strengthening bonds"
+    },
     "mission": {
       "title": "Our Mission",
-      "description": "Transform organizations through software systems that integrate visions and strengthen bonds. We don't sell code, we build capabilities."
+      "description": "Orchestrate solutions that enable modular scalability, harmonizing business visions with high-complexity infrastructures.",
+      "extended": "We don't deliver simple systems; we build sustainable solutions that protect your investment and guarantee the longevity of your digital ecosystem."
     },
     "values": {
       "title": "Core Values",
+      "subtitle": "The DNA that defines us",
       "items": [
-        "Technical excellence without excuses",
-        "Transparency at every stage",
-        "Results-oriented approach",
-        "Long-term commitment"
+        {
+          "title": "Security from day one",
+          "description": "We protect your data from the first day of development"
+        },
+        {
+          "title": "Total transparency",
+          "description": "Honest communication without information asymmetries"
+        },
+        {
+          "title": "Guaranteed precision",
+          "description": "Accurate diagnostics and solid solutions that work"
+        },
+        {
+          "title": "Active listening",
+          "description": "We integrate with your team to understand your real needs"
+        }
       ]
     },
     "team": {
-      "title": "Leadership Team",
-      "description": "Professionals with extensive experience in enterprise software development, committed to innovation and customer satisfaction."
+      "title": "Our Team",
+      "description": "Professionals with experience in enterprise development, committed to concrete results",
+      "members": [
+        {
+          "name": "Ezequiel",
+          "role": "Strategic Leadership"
+        },
+        {
+          "name": "Daiana",
+          "role": "Product Manager"
+        },
+        {
+          "name": "Andres",
+          "role": "Backend & Analysis"
+        },
+        {
+          "name": "Giovanny",
+          "role": "UX/UI Design"
+        },
+        {
+          "name": "Marcos",
+          "role": "Development"
+        },
+        {
+          "name": "Yani",
+          "role": "Development"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Official Contact Points"
     }
   },
   "contact": {
