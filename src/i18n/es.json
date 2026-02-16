@@ -112,28 +112,28 @@
       "description": "Profesionales con experiencia en desarrollo empresarial, comprometidos con resultados concretos",
       "members": [
         {
-          "name": "Ezequiel",
-          "role": "Liderazgo Estratégico"
+          "name": "Ezequiel Pacheco",
+          "role": "CEO & Tech Lead"
         },
         {
-          "name": "Daiana",
+          "name": "Andres Chaile",
+          "role": "Desarrollador"
+        },
+        {
+          "name": "Giovanny Mena",
+          "role": "Diseñador UX/UI"
+        },
+        {
+          "name": "Marcos Condori",
+          "role": "Desarrollador"
+        },
+        {
+          "name": "Yanina Paez",
+          "role": "Desarrolladora"
+        },
+        {
+          "name": "Daiana Piccard",
           "role": "Product Manager"
-        },
-        {
-          "name": "Andres",
-          "role": "Backend & Análisis"
-        },
-        {
-          "name": "Giovanny",
-          "role": "Diseño UX/UI"
-        },
-        {
-          "name": "Marcos",
-          "role": "Desarrollo"
-        },
-        {
-          "name": "Yani",
-          "role": "Desarrollo"
         }
       ]
     },

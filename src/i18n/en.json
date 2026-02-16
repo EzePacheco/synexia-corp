@@ -112,28 +112,28 @@
       "description": "Professionals with experience in enterprise development, committed to concrete results",
       "members": [
         {
-          "name": "Ezequiel",
-          "role": "Strategic Leadership"
+          "name": "Ezequiel Pacheco",
+          "role": "CEO & Tech Lead"
         },
         {
-          "name": "Daiana",
+          "name": "Andres Chaile",
+          "role": "Developer"
+        },
+        {
+          "name": "Giovanny Mena",
+          "role": "UX/UI Designer"
+        },
+        {
+          "name": "Marcos Condori",
+          "role": "Developer"
+        },
+        {
+          "name": "Yanina Paez",
+          "role": "Developer"
+        },
+        {
+          "name": "Daiana Piccard",
           "role": "Product Manager"
-        },
-        {
-          "name": "Andres",
-          "role": "Backend & Analysis"
-        },
-        {
-          "name": "Giovanny",
-          "role": "UX/UI Design"
-        },
-        {
-          "name": "Marcos",
-          "role": "Development"
-        },
-        {
-          "name": "Yani",
-          "role": "Development"
         }
       ]
     },
